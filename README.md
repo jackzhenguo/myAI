@@ -48,8 +48,12 @@
 
 6. 综合运用
 
-![高效使用AI 教程目录](gpt提问宝典.png)
-![高效使用AI 教程目录](gpt提问宝典2.png)
+<div align="center">
+  <img src="gpt提问宝典.png" alt="高效使用AI 教程目录" style="width: 70%;">
+</div>
+<div align="center">
+  <img src="gpt提问宝典2.png" alt="高效使用AI 教程目录" style="width: 70%;">
+</div>
 
 ### 2. 本地搭建AI
 
@@ -74,7 +78,9 @@
      - 安装 docker
    - 步骤三: docker 部署 lobecha
 
-![本地搭建AI 教程目录](本地搭建AI.png)
+<div align="center">
+  <img src="本地搭建AI.png" alt="本地搭建AI 教程目录" style="width: 70%;">
+</div>
 
 ### 3. 搭建本地知识库
 
@@ -91,7 +97,9 @@
    - MaxKB 配置本地 Llama3
    - 创建知识库应用
 
-![搭建本地知识库 教程目录](知识库.png)
+<div align="center">
+  <img src="知识库.png" alt="搭建本地知识库 教程目录" style="width: 70%;">
+</div>
 
 ## 结论
 
@@ -99,9 +107,8 @@
 
 以上三个教程，由我编写，给这个库加个star，全部开源，免费获取，获取方法，关注下面我的公众号，依次回复消息：提问，AI, 知识库，免费领取。
 
-![我的公众号](公众号.jpg)
-
-
+<div align="center">
+  <img src="公众号.jpg" alt="我的公众号" style="width: 70%;">
+</div>
 
 如果有任何问题或需要进一步的帮助，请随时联系我。享受您的AI之旅！ 🚀
-
