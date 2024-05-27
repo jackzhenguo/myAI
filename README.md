@@ -76,7 +76,7 @@
      - 什么是 docker
      - 下载 docker
      - 安装 docker
-   - 步骤三: docker 部署 lobecha
+   - 步骤三: docker 部署 lobechat
 
 <div align="center">
   <img src="本地搭建AI.png" alt="本地搭建AI 教程目录" style="width: 70%;">
